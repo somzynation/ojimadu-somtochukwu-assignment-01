@@ -29,7 +29,7 @@ function sumOfNumbersTo(stopAt) {
   return sum;
 }
 
-let result2 = sumOfNumbersTo(1, 5);
+let result2 = sumOfNumbersTo();
 //console.log(result2);
 
 
