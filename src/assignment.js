@@ -29,7 +29,7 @@ function sumOfNumbersTo(stopAt) {
   return sum;
 }
 
-let result2 = sumOfNumbersTo();
+//let result2 = sumOfNumbersTo();
 //console.log(result2);
 
 
@@ -83,11 +83,7 @@ function countEvenNumbersWithin(destination) {
   };
 };
 
-let result1 = countEvenNumbersWithin();
-// console.log(result1.count);
-// console.log(result1.sum);
-// console.log(result1.arrayOfEvenNumbers);
-
+//let result1 = countEvenNumbersWithin();
 
 
 assignment.countEvenNumbersWithin = countEvenNumbersWithin;
